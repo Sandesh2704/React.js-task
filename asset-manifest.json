@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sandesh2704/React.js-task.git/static/css/main.bfe28e53.css",
+    "main.js": "/Sandesh2704/React.js-task.git/static/js/main.bc67c512.js",
+    "index.html": "/Sandesh2704/React.js-task.git/index.html",
+    "main.bfe28e53.css.map": "/Sandesh2704/React.js-task.git/static/css/main.bfe28e53.css.map",
+    "main.bc67c512.js.map": "/Sandesh2704/React.js-task.git/static/js/main.bc67c512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfe28e53.css",
+    "static/js/main.bc67c512.js"
+  ]
+}
